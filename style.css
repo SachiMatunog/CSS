@@ -1,0 +1,29 @@
+/* global css */
+*{
+    font-size: 20px;
+    font-weight: 500;
+}
+/* External CSS */
+h3{
+    color:blue;
+}
+
+/* element selector */
+h4{
+    color:blueviolet;
+}
+
+/* class selector */
+.myclass{
+    color:coral;
+}
+
+/* id selector */
+#myid{
+    color:blueviolet;
+}
+
+/* group selector */
+h3,p{
+    color:maroon;
+}
